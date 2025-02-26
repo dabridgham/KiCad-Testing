@@ -1,0 +1,3 @@
+= KiCad Testing
+
+Just a little test board to show up a possible bug in KiCad.
